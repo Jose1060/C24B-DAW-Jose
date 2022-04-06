@@ -1,3 +1,8 @@
+// Language: javascript
+//Mostrar los 50 primeros números múltiplos de 7, pero NO múltiplos de 2,3 o 5.
+
+console.log("Ejercicio 2");
+
 const sevenMultipler = () => {
 	let result = [];
 	let x = true;

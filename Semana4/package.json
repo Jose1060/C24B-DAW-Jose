@@ -1,0 +1,15 @@
+{
+	"name": "semana4",
+	"version": "1.0.0",
+	"description": "\"Probando init\"",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node 01-node/index.js"
+	},
+	"author": "Jose",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.26.1"
+	}
+}

@@ -1,3 +1,9 @@
+// Language: javascript
+//Desarrolle  una  función  que  permita  determinar  cuál  de  tres  parámetros  que  se  le
+//proporcione a la función es mayor.
+
+console.log("Ejercicio 1");
+
 let num = [];
 let c = true;
 
